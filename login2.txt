@@ -1,2 +1,4 @@
+Tính năng log in của máy 
+dang lam tính năng send fb
 Tính năng log in của máy B
 dang lam tinh nang send google
