@@ -1,1 +1,2 @@
-Tính năng log in của máy B
+Tính năng log in của máy 
+dang lam tính năng send fb
