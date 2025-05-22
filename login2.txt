@@ -1,1 +1,2 @@
 Tính năng log in của máy B
+dang lam tinh nang send google
